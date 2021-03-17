@@ -3,7 +3,7 @@ var myPet = {
     name: "Rex",
     legs: 4,
     friends : "Tom, Jerry"
-}
+};
 
 
 function myFunction(myObj) {
